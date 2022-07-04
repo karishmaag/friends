@@ -1,0 +1,70 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body
+{
+ background-color:#c2cecf;
+}
+#friends
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    position: absolute;
+    color:white ;
+    margin-left: 90px;
+
+}
+#TitleName
+{
+    margin:20px 350px 10px 350px ;
+    padding: 40px;
+}
+#yourName
+{
+    margin-left:50px;
+    margin-bottom:20px ;
+    color: #112047;
+    font-weight: bolder;
+}
+#friends p
+{
+ padding:5px;
+ color: white;
+ font-weight: bolder;
+}
+#textBox1
+{
+ padding: 15px;
+ border-color: black;
+ background-color: #78d7e3;
+}
+#textBox2
+{
+ padding: 15px;
+ border-color: black;
+ background-color: #78d7e3;
+}
+#textBox3
+{
+ padding: 15px;
+ border-color: black;
+ background-color: #78d7e3;
+}
+#backgroundImage
+{
+    margin: 50px 100px 50px 100px;
+}
+#textBox
+{
+     border-color: black;
+     background-color: #78d7e3;
+}
+
+
+
+
+
